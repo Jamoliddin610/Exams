@@ -189,6 +189,56 @@ body{
     color: #000000;
     margin-bottom: 16px;
 }
+.web::before{
+    content: '';
+    display: inline-block;
+    background-image: url('./media/imgs/website-illustration.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 130px;
+    margin-bottom: 16px;
+}
+.tel::before {
+    content: '';
+    display: inline-block;
+    background-image: url('./media/imgs/bot-illustration.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 130px;
+    margin-bottom: 16px;
+}
+.smm::before {
+    content: '';
+    display: inline-block;
+    background-image: url('./media/imgs/smm-illustration.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 130px;
+    margin-bottom: 16px;
+}
+.grafic::before {
+    content: '';
+    display: inline-block;
+    background-image: url('./media/imgs/design-illustration.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 130px;
+    margin-bottom: 16px;
+}
+.crm::before {
+    content: '';
+    display: inline-block;
+    background-image: url('./media/imgs/crm-illustration.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 130px;
+    margin-bottom: 16px;
+}
 .serv-paragraph{
     font-size: 16px;
     line-height: 24px;
