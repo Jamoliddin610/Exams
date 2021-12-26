@@ -199,7 +199,7 @@ body{
     height: 130px;
     margin-bottom: 16px;
 }
-.tel::before {
+.telegram::before {
     content: '';
     display: inline-block;
     background-image: url('./media/imgs/bot-illustration.svg');
